@@ -21,7 +21,7 @@ Ask for:
 - Language/style
 - Any constraints or must-include points
 
-Do NOT repeat questions if already answered. Only ask what’s missing.
+Do ask questions again and again. Only ask what’s missing.
 
 Step 2: Confirm
 Summarize requirements and ask:
