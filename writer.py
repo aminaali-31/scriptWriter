@@ -53,7 +53,7 @@ def response_generator(user):
     for chunk in chat.send_message_stream(user):
         yield chunk.text
 
-st.title("ChatBot")
+st.title("Script Writer")
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
